@@ -1,4 +1,4 @@
-/ ourTeam variable is done as requested
+//ourTeam variable is done as requested
 const ourTeam = {
     name: "",
     members: [{
@@ -30,15 +30,15 @@ const ourTeam = {
     {
         name: "Viktor Nemesi",
         birthday: {
-            year: 1962,
-            month: 08,
-            day: 22,
+            year: 1984,
+            month: 10,
+            day: 30,
         },
         location: {
             country: "Hungary",
-            city: "Budapest",
+            city: "Miskolc",
         },
-        codingLevel: 3
+        codingLevel: 1
     }
 ],
 }
